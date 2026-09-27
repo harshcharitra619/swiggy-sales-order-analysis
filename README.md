@@ -29,7 +29,9 @@ The analysis focuses on identifying sales trends, customer order patterns, food 
 
 The project includes an Excel dashboard that summarizes key sales and order metrics.
 
-![Swiggy Sales Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.png" alt="Swiggy Sales Dashboard" width="100%">
+</p>
 
 ## Key Findings
 
@@ -38,7 +40,7 @@ The project includes an Excel dashboard that summarizes key sales and order metr
 - Non-Veg sales contributed approximately **64%** of total sales, compared with **36%** from Veg sales.
 - Among the top five cities analyzed, **Bengaluru** recorded the highest sales contribution at approximately **₹5.5M**.
 - **Saturday** recorded the highest daily sales among the days shown, at approximately **₹7.8M**.
-- Sales remained relatively consistent across the analyzed months, with monthly sales generally ranging between approximately **₹6.3M and ₹6.8M**.
+- Monthly sales ranged from approximately **₹6.3M to ₹6.8M** during the analyzed period.
 
 ## Business Recommendations
 
